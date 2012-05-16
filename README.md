@@ -47,6 +47,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 21, HTML5 DevCon (SF), Steve Gill
 - May 23-24, DevSum 2012 (Stockholm), [Fil
   Maj](http://twitter.com/filmaj)
+- May 24-25, WhyMCA 2012 (Bologna), [Fil
+  Maj](http://twitter.com/filmaj)
 - May, D2WC (Kansas City), Terry Ryan
 
 ## APRIL 2012
