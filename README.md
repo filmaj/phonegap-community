@@ -45,7 +45,8 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 - May 16, AnDevCon (SF), Steve Gill
 - May 16-18, WebVisions (Portland), Kevin Hoyt
 - May 21, HTML5 DevCon (SF), Steve Gill
-- May 23-24, DevSum 2012 (Stockholm), [Fil Maj](1)
+- May 23-24, DevSum 2012 (Stockholm), [Fil
+  Maj](http://twitter.com/filmaj)
 - May, D2WC (Kansas City), Terry Ryan
 
 ## APRIL 2012
@@ -246,5 +247,3 @@ Each month we'll round-up the latest content and post it on the [PhoneGap Blog](
 
 - Improved shipping information on PhoneGap Shop, Yohei Shimomae
 - New featured app posted: Advertising Agency
-
-[1]: http://twitter.com/filmaj
